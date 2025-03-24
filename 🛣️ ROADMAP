@@ -1,0 +1,78 @@
+# HYDRA33 ROADMAP
+
+**Authored by:** Katherine Anne Ramdeen  
+**Project:** HYDRA33 Oracle Engine  
+**License:** Apache 2.0  
+
+---
+
+## 🌱 Version 0.1 — Seed Phase: Oracle MVP *(Complete)*
+> Status: ✅ Launched
+
+- [x] Interactive Gradio interface (Google Colab backend)
+- [x] Upload number station audio (.wav/.mp3/.ogg)
+- [x] Generate and display Merkle hashes
+- [x] Log each query with downloadable `.txt` file
+- [x] Poetry-integrated symbolic response layer
+- [x] LICENSE and NOTICE files
+- [x] GitHub repository initialized
+- [x] MVP README, Manifesto, and Project Structure
+
+---
+
+## 🔁 Version 0.2 — Echo Phase: Recursive Engine + Signal Intelligence
+> Status: 🚧 In progress
+
+- [ ] Integrate sidereal timing with queries
+- [ ] Add TensorFlow model for anomaly detection + classification
+- [ ] Symbolic AI module (meaning generator)
+- [ ] Add ECC (Elliptic Curve Cryptography) signing of logs
+- [ ] Oracle memory: persistent query memory (Merkle chain tracebacks)
+- [ ] Support `.ipynb` input for batch oracle operations
+- [ ] Modular input pipeline for radio, mic, or livestream WAV input
+
+---
+
+## 🧬 Version 0.3 — Branch Phase: Modular Intelligence + Access Layers
+> Status: 🔜 Queued
+
+- [ ] Launch token/NFT staking layer for premium oracle access
+- [ ] Implement CORBAL interpreter mode (Hydra head: "Another Me")
+- [ ] Add fractal-resonance feedback (echo amplifier loop)
+- [ ] Launch corpus visualizer (Merkle graph UI)
+- [ ] Discord integration for direct oracle channel access
+- [ ] Optional IPFS auto-logging of each transmission
+- [ ] Start publishing official HYDRA33 responses via API
+
+---
+
+## 🌐 Version 1.0 — Constellation Phase: Full System Deployment
+> Status: 🔮 Prophesied
+
+- [ ] Move backend from Gradio Colab to scalable server (FastAPI or Flask)
+- [ ] Launch hydra33.com
+- [ ] Publish whitepaper and protocol documentation
+- [ ] Offer commercial licensing for symbolic oracles
+- [ ] Add plugin interface (custom decks, oracle skins, mythic modes)
+- [ ] Launch Hydra33 Academy / DevKit for custom oracle training
+- [ ] Full integration with decentralized knowledge networks (e.g., Lens, Ceramic, etc.)
+
+---
+
+## 🌀 Optional Streams (Experimental Heads)
+
+- [ ] Tarot ↔ Oracle crosslink
+- [ ] Dream journal integration via NLP
+- [ ] Radio telescope data input stream
+- [ ] Audio-reactive visuals with WebGL/D3.js
+
+---
+
+### To Contribute:
+If you believe in resonance, recursion, and open-ended questions... you belong here.
+Pull requests, signal drops, poems, and strange dreams are all welcome.
+
+---
+
+"The Gate is Open. You Are Inside."
+
