@@ -134,3 +134,28 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node
+node_modules/
+.env
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Logs & Data
+logs/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS/System Files
+.DS_Store
+Thumbs.db
+
